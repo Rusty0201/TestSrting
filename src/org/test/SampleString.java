@@ -10,10 +10,16 @@ public static void main(String[] args) {
 	
 	System.out.println(length);
 	
-	
-	for (int i = 0; i < s.charAt(10); i++) {
+	for (int i = 0; i < s.length(); i++) {
 		
 		System.out.println(i);
+		
+	}
+for (int i = 0; i < s.charAt(10); i++) {
+		
+		System.out.println(i);
+	
+	
 		
 	}
 	
